@@ -1,0 +1,1 @@
+export { default as PageA } from './page-a';
